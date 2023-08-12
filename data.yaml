@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Pothole Detection Project New_YOLO8/train
+val: /content/drive/MyDrive/Pothole Detection Project New_YOLO8/valid
+test: /content/drive/MyDrive/Pothole Detection Project New_YOLO8/test
+
+nc: 4
+names: ['Pothole', 'Potholes', 'object', 'pothole']
